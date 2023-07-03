@@ -8,6 +8,7 @@
 ![image](Thumbnail-1.png)
 ![image](./Thumbnail-2.png)
 ![image](./Thumbnail-3.png)
+[Live Preview](https://project-9-api-company.netlify.app/)
 <hr>
 
 ## Features
